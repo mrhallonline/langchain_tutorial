@@ -1,0 +1,1 @@
+Messing around with updated langchain and langgraph for multiagent RAG system I want to build using "Generative AI with LangChain" by Auffarth and Kuligin. Read the first version, but this one seems much more in line with what I want to work on with LangGraph.
