@@ -1,0 +1,3 @@
+{"query": "What is RAG and why use it?", "expected_contains": ["retriever", "generator", "grounding"], "must_cite": true}
+{"query": "When is hybrid retrieval helpful?", "expected_contains": ["BM25", "dense", "recall"], "must_cite": true}
+{"query": "What does LangGraph add beyond simple chains?", "expected_contains": ["state", "loops", "branches"], "must_cite": true}

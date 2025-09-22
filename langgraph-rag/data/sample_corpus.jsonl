@@ -1,0 +1,15 @@
+{"id": "d1", "title": "NGSS Performance Expectations", "text": "NGSS PEs describe what students should know and be able to do. They integrate practices, crosscutting concepts, and disciplinary core ideas.", "tags": ["ngss", "education"]}
+{"id": "d2", "title": "RAG overview", "text": "Retrieval-Augmented Generation combines a retriever with a generator to ground responses in external documents.", "tags": ["rag", "ai"]}
+{"id": "d3", "title": "Hybrid Retrieval", "text": "Hybrid retrieval blends sparse (BM25) and dense embeddings to improve recall across query types.", "tags": ["retrieval", "ir"]}
+{"id": "d4", "title": "LangGraph basics", "text": "LangGraph expresses LLM systems as stateful graphs with nodes, edges, and control flow for loops and branches.", "tags": ["langgraph", "orchestration"]}
+{"id": "d5", "title": "Citations and Faithfulness", "text": "Answer faithfulness measures whether claims are supported by sources. Inline citations reduce hallucination risk.", "tags": ["eval", "faithfulness"]}
+{"id": "d6", "title": "Filler 6", "text": "Filler content 6 about retrieval, embeddings, chunking, and attribution trade-offs.", "tags": ["filler"]}
+{"id": "d7", "title": "Filler 7", "text": "Filler content 7 about retrieval, embeddings, chunking, and attribution trade-offs.", "tags": ["filler"]}
+{"id": "d8", "title": "Filler 8", "text": "Filler content 8 about retrieval, embeddings, chunking, and attribution trade-offs.", "tags": ["filler"]}
+{"id": "d9", "title": "Filler 9", "text": "Filler content 9 about retrieval, embeddings, chunking, and attribution trade-offs.", "tags": ["filler"]}
+{"id": "d10", "title": "Filler 10", "text": "Filler content 10 about retrieval, embeddings, chunking, and attribution trade-offs.", "tags": ["filler"]}
+{"id": "d11", "title": "Filler 11", "text": "Filler content 11 about retrieval, embeddings, chunking, and attribution trade-offs.", "tags": ["filler"]}
+{"id": "d12", "title": "Filler 12", "text": "Filler content 12 about retrieval, embeddings, chunking, and attribution trade-offs.", "tags": ["filler"]}
+{"id": "d13", "title": "Filler 13", "text": "Filler content 13 about retrieval, embeddings, chunking, and attribution trade-offs.", "tags": ["filler"]}
+{"id": "d14", "title": "Filler 14", "text": "Filler content 14 about retrieval, embeddings, chunking, and attribution trade-offs.", "tags": ["filler"]}
+{"id": "d15", "title": "Filler 15", "text": "Filler content 15 about retrieval, embeddings, chunking, and attribution trade-offs.", "tags": ["filler"]}
